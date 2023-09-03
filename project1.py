@@ -1,5 +1,5 @@
 """"
-Youtube video and Audio Downloader
+Youtube video Downloader
 tkinter -- for frontend purpose
 messagebox--for notification or error messages
 pytube module -- python external library for downloading youtube video
